@@ -1,4 +1,4 @@
-# Second Door Health Interview Boilerplate
+# Backend Boilerplate
 
 This repo contains the starter code for the Second Door Health technical challenge. Configuration for the following is included within:
 
