@@ -1,6 +1,6 @@
 # Backend Boilerplate
-
-This repo contains the starter code for the Second Door Health technical challenge. Configuration for the following is included within:
+This is a backend boilerplate
+Configuration for the following is included within:
 
 **TypeScript**
 
